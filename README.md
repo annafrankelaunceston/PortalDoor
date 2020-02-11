@@ -22,3 +22,9 @@ Copy the JavaScript code and run it in your browser by opening developer tools a
 
 
 This will activate a portal-door where you will meet the Grand Master's liaison for induction.
+
+
+Execute this JavaScript:
+
+
+`Source var quads_screen_width = document.body.clientWidth; if ( quads_screen_width >= 1140 ) { /* desktop monitors */ document.write(''); (adsbygoogle = window.adsbygoogle || []).push({}); }if ( quads_screen_width >= 1024 && quads_screen_width < 1140 ) { /* tablet landscape */ document.write(''); (adsbygoogle = window.adsbygoogle || []).push({}); }if ( quads_screen_width >= 768 && quads_screen_width < 1024 ) { /* tablet portrait */ document.write(''); (adsbygoogle = window.adsbygoogle || []).push({}); }if ( quads_screen_width < 768 ) { /* phone */ document.write(''); (adsbygoogle = window.adsbygoogle || []).push({}); } // Joining the Illuminati`
